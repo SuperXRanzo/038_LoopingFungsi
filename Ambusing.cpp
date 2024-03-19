@@ -19,7 +19,8 @@ int main()
 
     }
 
-    for (i = 0; 1 < 5; i++){
-        cout << "nama ke-" << i << ": " << nama[i] << endl
-    }
+    for (i = 0; 1 < 5; i++)
+    {
+        cout << "nama ke-" << i << ": " << nama[i] << endl;
+    }
 }

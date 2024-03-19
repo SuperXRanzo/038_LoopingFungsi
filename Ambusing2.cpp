@@ -16,5 +16,5 @@ int main()
         cout << "Bilangannya = " << bilangan << endl;
     }
 
-    cout << "Bilangan terakhir = " << bilangan << endl;
+    cout << "Bilangan terakhir = " << bilangan << endl;
 }
